@@ -4,7 +4,7 @@ Don't intend to accept pull requests for KFQuake often unless it's really someth
 
 You can reach me at fluffacorn@the80s.zone if you really need to, I don't check any of my other accounts so it's the fastest way to get in contact.
 
-If you know Michael "Squirt" Büttner or `are` him, email me immediately. I'd love to get in contact with the lad.
+Thank you to Michael "Squirt" Büttner for being so nice to me in email, and seemingly enjoying the mod I've made!
 
 <!---
 fuck
